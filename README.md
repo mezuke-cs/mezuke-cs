@@ -24,7 +24,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 
-## 🧑‍💼 Connect with Me
+## 🎶 & 🎥 Connect with Me
 
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=flat&logo=last.fm&logoColor=white)](https://www.last.fm/user/mezuke_)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-00D735?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/aQZsb)
